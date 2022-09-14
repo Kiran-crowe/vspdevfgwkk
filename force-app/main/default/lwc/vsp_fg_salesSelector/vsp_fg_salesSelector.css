@@ -1,0 +1,12 @@
+/*style*/
+.slds-modal__title {
+  --slds-c-modal-heading-font-weight:400;
+}
+
+.slds-modal__footer {
+  --slds-c-modal-footer-color-background: #F8F8F8;
+}
+
+.overflow-visible {
+  overflow: visible;
+}
